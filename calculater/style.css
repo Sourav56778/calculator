@@ -1,0 +1,44 @@
+#dd{
+    position: relative;
+    left: 47%;
+}
+.body{
+    height: 20rem;
+    width: 15rem;
+    border: 2px solid black ;
+    align-content: center;
+    position: relative;
+    left: 42%;
+}
+.input{
+    height: 51px;
+    width: 225px;
+    margin: 3px;
+    border-radius: 2px;
+}
+
+.button{
+    height: 50px ;
+    width: 50px;
+    
+}
+.first{
+    display: flex;
+    gap: 10px;
+}
+.sece{
+        display: flex;
+    gap: 10px;
+}
+.thir{
+    display: flex;
+    gap: 10px;
+}
+.fort{
+    display: flex;
+    gap: 10px;
+}
+.fivee{
+    display: flex;
+    gap: 10px;
+}
